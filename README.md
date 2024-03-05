@@ -1,29 +1,29 @@
-# JupyterLite Demo
+# JupyterLite 演示
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+为演示目的，将 JupyterLite 部署为静态网站到 GitHub Pages。
 
-## ✨ Try it in your browser ✨
+## ✨ 在您的浏览器中尝试它 ✨
 
 ➡️ **https://jupyterlite.github.io/demo**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
-## Requirements
+## 要求
 
-JupyterLite is being tested against modern web browsers:
+JupyterLite 正在针对现代网络浏览器进行测试：
 
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
+## 在 GitHub Pages 上部署您的 JupyterLite 网站
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+查看 JupyterLite 文档上的指南：https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Further Information and Updates
+## 更多信息和更新
 
-For more info, keep an eye on the JupyterLite documentation:
+欲了解更多信息，请关注 JupyterLite 文档：
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+- 操作指南：https://jupyterlite.readthedocs.io/en/latest/howto/index.html
+- 参考：https://jupyterlite.readthedocs.io/en/latest/reference/index.html
