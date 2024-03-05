@@ -1,12 +1,12 @@
 # JupyterLite 演示
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://xinetzone.github.io/demo)
 
 为演示目的，将 JupyterLite 部署为静态网站到 GitHub Pages。
 
 ## ✨ 在您的浏览器中尝试它 ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://xinetzone.github.io/demo**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
